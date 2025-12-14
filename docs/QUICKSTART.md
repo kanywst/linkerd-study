@@ -1,5 +1,13 @@
 # Linkerd: Quick Start
 
+- [Linkerd: Quick Start](#linkerd-quick-start)
+  - [Refs](#refs)
+  - [Quick Start](#quick-start)
+  - [Sequence](#sequence)
+    - [Core Concept: Transparent Proxying](#core-concept-transparent-proxying)
+    - [Detailed Sequence Diagram: Outbound Request in Linkerd](#detailed-sequence-diagram-outbound-request-in-linkerd)
+    - [Key Takeaways](#key-takeaways)
+
 ## Refs
 
 - https://linkerd.io/2.19/getting-started/
